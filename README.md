@@ -1,6 +1,6 @@
 # COMP9417 Machine Learning Project: Toxic Comment Classification
 
-Names: Sidney Tandjiria (z5272671), Xinli Wang (z3416476)
+Names: Sidney Tandjiria, Xinli Wang
 
 ## Link to the Kaggle competition
 
